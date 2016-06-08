@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:02.871429
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:46
 #+TITLE: 佛說時非時經
 #+PROPERTY: CBETA_ID T17n0794a
 #+PROPERTY: ID KR6i0498
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 794a
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0498_T_000-0738b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0498_T_001-0738b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.794¶
-
- 《佛說時非時經》¶
+No. 794¶
+《佛說時非時經》¶
 ¶
 天竺三藏若羅嚴譯¶
 
@@ -81,13 +80,13 @@ No.794¶
 　緣斯修善業，
 　離惡得解脫，¶
 　不善觀因緣，
-　身壞入惡道。」
+　身壞入惡道。」」
 #+END_VERSE
-」¶
+¶
 
 外國法師若羅嚴，手執胡本，口自宣譯。涼州
 <pb:KR6i0498_T_001-0739a>¶
-道人，干填城中寫訖。¶
+道人，于填城中寫訖。¶
 
 被褐懷玉，深智作愚；外如夷人，內懷明珠；千¶
 億萬劫，與道同體。¶
